@@ -7,6 +7,26 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Name="btnRefresh" Content="RefreshList" Margin="10,10,706,387" Click="btnRefresh_Click"/>
+        <ListView Name="lvSchemes" Margin="0,37,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <TextBox Text="{Binding Path=Name}" Background="Transparent" BorderThickness="0" IsReadOnly="True" TextWrapping="Wrap" />
+                                </Grid>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+            <Menu Margin="3">
+                <MenuItem Header="Imports" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalContentAlignment="Stretch" Height="22" Width="54" BorderThickness="1" FontSize="13" Background="LightGray" BorderBrush="DimGray">
+                    <MenuItem Name="miSetAsActive" Header="Set as Active" Click="miSetAsActive_Click"/>
+                </MenuItem>
+            </Menu>
+        </ListView>
     </Grid>
 </Window>

@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerModeChanger", "PowerModeChanger\PowerModeChanger.csproj", "{A9AA94FE-437F-42C9-9CB5-64F81493A00E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44455E86-E491-41D0-9692-5BD4F5227995}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerMode", "PowerMode\PowerMode.csproj", "{BD614A6C-699C-49D8-ACCB-BE804E738332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9AA94FE-437F-42C9-9CB5-64F81493A00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9AA94FE-437F-42C9-9CB5-64F81493A00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9AA94FE-437F-42C9-9CB5-64F81493A00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9AA94FE-437F-42C9-9CB5-64F81493A00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD614A6C-699C-49D8-ACCB-BE804E738332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD614A6C-699C-49D8-ACCB-BE804E738332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD614A6C-699C-49D8-ACCB-BE804E738332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD614A6C-699C-49D8-ACCB-BE804E738332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

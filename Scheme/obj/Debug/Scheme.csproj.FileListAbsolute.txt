@@ -1,0 +1,14 @@
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\bin\Debug\Scheme.exe.config
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\bin\Debug\Scheme.exe
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\bin\Debug\Scheme.pdb
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\MainWindow.g.cs
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\App.g.cs
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme_MarkupCompile.cache
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme_MarkupCompile.lref
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\MainWindow.baml
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme.g.resources
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme.Properties.Resources.resources
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme.csproj.GenerateResource.cache
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme.exe
+C:\Users\jakob\source\repos\setCurrentPowerScheme\Scheme\obj\Debug\Scheme.pdb
